@@ -1,7 +1,6 @@
 Crypto Market API Data Collector
 
 This Python script allows you to collect cryptocurrency market data from the CoinMarketCap API and store it in a CSV file for further analysis or tracking.
-Prerequisites
 
 Before running the script, ensure you have the following dependencies installed:
 
