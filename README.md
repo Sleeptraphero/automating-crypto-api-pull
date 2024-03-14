@@ -35,5 +35,3 @@ python crypto_market_data_collector.py
 
 The script will start making API calls to CoinMarketCap at the specified interval and store the retrieved data in the CSV file.
 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
